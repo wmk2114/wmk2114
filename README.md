@@ -1,7 +1,7 @@
 ### Hello, hello 👋
 My name is Wyatt King, and I'm a senior at Columbia in its joint international relations and statistics program. In May, I'll graduate, and before that, I'll finish writing a senior thesis on state identity and nuclear weapons use. Here, you can find an assortment of projects that I've worked on at university along with my website repository. Feel free to get in contact if you want to talk constructivism, Moby Dick, or Mets baseball.
 
-Find more about me on my [website](https://wmk2114.github.io/my-site/index.html). I also do some [multimedia journalism](https://wmk2114.github.io/my-site/Multimedia.html) covering Columbia's campus protests, if you're interested. If you want to check out my professional background, my CV is [here](https://wmk2114.github.io/my-site/pdfs/WyattKingCV.pdf) and my LinkedIn is [here](https://www.linkedin.com/in/wyatt-king-790955263/).
+Find more about me on my [website](https://wmk2114.github.io/my-site/index.html)—I did some [multimedia journalism](https://wmk2114.github.io/my-site/Multimedia.html) covering Columbia's campus protests, if you're interested. If you want to check out my professional background, my CV is [here](https://wmk2114.github.io/my-site/pdfs/WyattKingCV.pdf) and my LinkedIn is [here](https://www.linkedin.com/in/wyatt-king-790955263/).
 
 <!--
 **wmk2114/wmk2114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
