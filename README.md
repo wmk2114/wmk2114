@@ -1,4 +1,4 @@
-## Hi 👋
+## Hello Friends
 
 My name is Wyatt King, and I'm a senior at Columbia in a joint international relations and statistics program. In May, I'll graduate, and before that, I'll finish writing a senior thesis on state identity and nuclear weapons use. Here, you can find an assortment of projects that I've worked on at university along with my website repository. Feel free to get in contact if you want to talk constructivism, Moby Dick, or Mets baseball.
 
